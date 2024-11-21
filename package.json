@@ -9,7 +9,7 @@
   "author": "Fernando Valler",
   "license": "MIT",
   "dependencies": {
-     "axios": ">=0.21.2",
+    "axios": ">=0.21.1",
     "follow-redirects": ">=1.14.7"
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
